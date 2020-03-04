@@ -15,4 +15,4 @@ g++ -I"C:\opencv\install\include" -fsanitize=address -L"C:\opencv\install\x64\mi
 
 ```
 
-This will create a app.exe file. Remember in order to run the exe the binary file of opencv installation must be in the path.
+This will create a app.exe file. Remember in order to run the exe the binary file of opencv installation must be in the path. 
